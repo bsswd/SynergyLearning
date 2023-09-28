@@ -1,7 +1,0 @@
-C:\Users\79061\SynergyLearning\Copy\bin\Debug\Copy.exe.config
-C:\Users\79061\SynergyLearning\Copy\bin\Debug\Copy.exe
-C:\Users\79061\SynergyLearning\Copy\bin\Debug\Copy.pdb
-C:\Users\79061\SynergyLearning\Copy\obj\Debug\Copy.csproj.AssemblyReference.cache
-C:\Users\79061\SynergyLearning\Copy\obj\Debug\Copy.csproj.CoreCompileInputs.cache
-C:\Users\79061\SynergyLearning\Copy\obj\Debug\Copy.exe
-C:\Users\79061\SynergyLearning\Copy\obj\Debug\Copy.pdb

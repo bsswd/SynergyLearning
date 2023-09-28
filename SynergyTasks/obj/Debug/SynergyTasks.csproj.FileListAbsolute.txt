@@ -1,7 +1,0 @@
-C:\Users\79061\SynergyLearning\SynergyTasks\bin\Debug\SynergyTasks.exe.config
-C:\Users\79061\SynergyLearning\SynergyTasks\bin\Debug\SynergyTasks.exe
-C:\Users\79061\SynergyLearning\SynergyTasks\bin\Debug\SynergyTasks.pdb
-C:\Users\79061\SynergyLearning\SynergyTasks\obj\Debug\SynergyTasks.csproj.AssemblyReference.cache
-C:\Users\79061\SynergyLearning\SynergyTasks\obj\Debug\SynergyTasks.csproj.CoreCompileInputs.cache
-C:\Users\79061\SynergyLearning\SynergyTasks\obj\Debug\SynergyTasks.exe
-C:\Users\79061\SynergyLearning\SynergyTasks\obj\Debug\SynergyTasks.pdb
