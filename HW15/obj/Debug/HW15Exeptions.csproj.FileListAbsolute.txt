@@ -1,0 +1,7 @@
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW15Exeptions\obj\Debug\HW15Exeptions.csproj.AssemblyReference.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW15Exeptions\obj\Debug\HW15Exeptions.csproj.CoreCompileInputs.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW15Exeptions\bin\Debug\HW15Exeptions.exe.config
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW15Exeptions\bin\Debug\HW15Exeptions.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW15Exeptions\bin\Debug\HW15Exeptions.pdb
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW15Exeptions\obj\Debug\HW15Exeptions.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW15Exeptions\obj\Debug\HW15Exeptions.pdb

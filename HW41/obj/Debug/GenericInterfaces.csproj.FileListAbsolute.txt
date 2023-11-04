@@ -1,0 +1,7 @@
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\GenericInterfaces\bin\Debug\GenericInterfaces.exe.config
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\GenericInterfaces\bin\Debug\GenericInterfaces.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\GenericInterfaces\bin\Debug\GenericInterfaces.pdb
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\GenericInterfaces\obj\Debug\GenericInterfaces.csproj.AssemblyReference.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\GenericInterfaces\obj\Debug\GenericInterfaces.csproj.CoreCompileInputs.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\GenericInterfaces\obj\Debug\GenericInterfaces.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\GenericInterfaces\obj\Debug\GenericInterfaces.pdb

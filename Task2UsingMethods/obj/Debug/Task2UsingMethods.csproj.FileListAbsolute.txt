@@ -1,7 +1,0 @@
-C:\Users\79061\SynergyLearning\Task2UsingMethods\bin\Debug\Task2UsingMethods.exe.config
-C:\Users\79061\SynergyLearning\Task2UsingMethods\bin\Debug\Task2UsingMethods.exe
-C:\Users\79061\SynergyLearning\Task2UsingMethods\bin\Debug\Task2UsingMethods.pdb
-C:\Users\79061\SynergyLearning\Task2UsingMethods\obj\Debug\Task2UsingMethods.csproj.AssemblyReference.cache
-C:\Users\79061\SynergyLearning\Task2UsingMethods\obj\Debug\Task2UsingMethods.csproj.CoreCompileInputs.cache
-C:\Users\79061\SynergyLearning\Task2UsingMethods\obj\Debug\Task2UsingMethods.exe
-C:\Users\79061\SynergyLearning\Task2UsingMethods\obj\Debug\Task2UsingMethods.pdb

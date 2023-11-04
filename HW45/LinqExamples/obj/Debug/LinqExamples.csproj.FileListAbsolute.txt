@@ -1,0 +1,7 @@
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\LinqExamples\bin\Debug\LinqExamples.exe.config
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\LinqExamples\bin\Debug\LinqExamples.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\LinqExamples\bin\Debug\LinqExamples.pdb
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\LinqExamples\obj\Debug\LinqExamples.csproj.AssemblyReference.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\LinqExamples\obj\Debug\LinqExamples.csproj.CoreCompileInputs.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\LinqExamples\obj\Debug\LinqExamples.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\LinqExamples\obj\Debug\LinqExamples.pdb

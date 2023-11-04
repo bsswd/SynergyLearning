@@ -1,0 +1,7 @@
+C:\WORK\GAMEDEV\Synergy\C#\Current\Operators\bin\Debug\Operators.exe.config
+C:\WORK\GAMEDEV\Synergy\C#\Current\Operators\bin\Debug\Operators.exe
+C:\WORK\GAMEDEV\Synergy\C#\Current\Operators\bin\Debug\Operators.pdb
+C:\WORK\GAMEDEV\Synergy\C#\Current\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\WORK\GAMEDEV\Synergy\C#\Current\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\WORK\GAMEDEV\Synergy\C#\Current\Operators\obj\Debug\Operators.exe
+C:\WORK\GAMEDEV\Synergy\C#\Current\Operators\obj\Debug\Operators.pdb

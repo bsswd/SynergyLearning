@@ -1,0 +1,10 @@
+C:\WORK\GAMEDEV\Synergy\C#\Current\MetersToFeetConverter\bin\Debug\MetersToFeetConverter.exe.config
+C:\WORK\GAMEDEV\Synergy\C#\Current\MetersToFeetConverter\bin\Debug\MetersToFeetConverter.exe
+C:\WORK\GAMEDEV\Synergy\C#\Current\MetersToFeetConverter\bin\Debug\MetersToFeetConverter.pdb
+C:\WORK\GAMEDEV\Synergy\C#\Current\MetersToFeetConverter\obj\Debug\HW05MetersToFeetConverter.csproj.AssemblyReference.cache
+C:\WORK\GAMEDEV\Synergy\C#\Current\MetersToFeetConverter\obj\Debug\MetersToFeetConverter.MetersToFeet.resources
+C:\WORK\GAMEDEV\Synergy\C#\Current\MetersToFeetConverter\obj\Debug\MetersToFeetConverter.Properties.Resources.resources
+C:\WORK\GAMEDEV\Synergy\C#\Current\MetersToFeetConverter\obj\Debug\HW05MetersToFeetConverter.csproj.GenerateResource.cache
+C:\WORK\GAMEDEV\Synergy\C#\Current\MetersToFeetConverter\obj\Debug\HW05MetersToFeetConverter.csproj.CoreCompileInputs.cache
+C:\WORK\GAMEDEV\Synergy\C#\Current\MetersToFeetConverter\obj\Debug\MetersToFeetConverter.exe
+C:\WORK\GAMEDEV\Synergy\C#\Current\MetersToFeetConverter\obj\Debug\MetersToFeetConverter.pdb

@@ -1,0 +1,7 @@
+C:\Users\79061\SynergyLearning\HW13Parameters\bin\Debug\HW13Parameters.exe.config
+C:\Users\79061\SynergyLearning\HW13Parameters\bin\Debug\HW13Parameters.exe
+C:\Users\79061\SynergyLearning\HW13Parameters\bin\Debug\HW13Parameters.pdb
+C:\Users\79061\SynergyLearning\HW13Parameters\obj\Debug\HW13Parameters.csproj.AssemblyReference.cache
+C:\Users\79061\SynergyLearning\HW13Parameters\obj\Debug\HW13Parameters.csproj.CoreCompileInputs.cache
+C:\Users\79061\SynergyLearning\HW13Parameters\obj\Debug\HW13Parameters.exe
+C:\Users\79061\SynergyLearning\HW13Parameters\obj\Debug\HW13Parameters.pdb

@@ -1,0 +1,7 @@
+C:\Users\79061\SynergyLearning\HW14ParametersPreviousTask\bin\Debug\HW14ParametersPreviousTask.exe.config
+C:\Users\79061\SynergyLearning\HW14ParametersPreviousTask\bin\Debug\HW14ParametersPreviousTask.exe
+C:\Users\79061\SynergyLearning\HW14ParametersPreviousTask\bin\Debug\HW14ParametersPreviousTask.pdb
+C:\Users\79061\SynergyLearning\HW14ParametersPreviousTask\obj\Debug\HW14ParametersPreviousTask.csproj.AssemblyReference.cache
+C:\Users\79061\SynergyLearning\HW14ParametersPreviousTask\obj\Debug\HW14ParametersPreviousTask.csproj.CoreCompileInputs.cache
+C:\Users\79061\SynergyLearning\HW14ParametersPreviousTask\obj\Debug\HW14ParametersPreviousTask.exe
+C:\Users\79061\SynergyLearning\HW14ParametersPreviousTask\obj\Debug\HW14ParametersPreviousTask.pdb

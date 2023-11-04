@@ -1,7 +1,0 @@
-C:\Users\79061\SynergyLearning\Task3VendingMachine\bin\Debug\Task3VendingMachine.exe.config
-C:\Users\79061\SynergyLearning\Task3VendingMachine\bin\Debug\Task3VendingMachine.exe
-C:\Users\79061\SynergyLearning\Task3VendingMachine\bin\Debug\Task3VendingMachine.pdb
-C:\Users\79061\SynergyLearning\Task3VendingMachine\obj\Debug\Task3VendingMachine.csproj.AssemblyReference.cache
-C:\Users\79061\SynergyLearning\Task3VendingMachine\obj\Debug\Task3VendingMachine.csproj.CoreCompileInputs.cache
-C:\Users\79061\SynergyLearning\Task3VendingMachine\obj\Debug\Task3VendingMachine.exe
-C:\Users\79061\SynergyLearning\Task3VendingMachine\obj\Debug\Task3VendingMachine.pdb

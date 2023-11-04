@@ -1,0 +1,7 @@
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\DLR\bin\Debug\DLR.exe.config
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\DLR\bin\Debug\DLR.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\DLR\bin\Debug\DLR.pdb
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\DLR\obj\Debug\DLR.csproj.AssemblyReference.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\DLR\obj\Debug\DLR.csproj.CoreCompileInputs.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\DLR\obj\Debug\DLR.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\DLR\obj\Debug\DLR.pdb

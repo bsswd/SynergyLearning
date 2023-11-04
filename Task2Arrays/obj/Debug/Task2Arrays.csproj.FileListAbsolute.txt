@@ -1,7 +1,0 @@
-C:\Users\79061\SynergyLearning\Task2Arrays\bin\Debug\Task2Arrays.exe.config
-C:\Users\79061\SynergyLearning\Task2Arrays\bin\Debug\Task2Arrays.exe
-C:\Users\79061\SynergyLearning\Task2Arrays\bin\Debug\Task2Arrays.pdb
-C:\Users\79061\SynergyLearning\Task2Arrays\obj\Debug\Task2Arrays.csproj.AssemblyReference.cache
-C:\Users\79061\SynergyLearning\Task2Arrays\obj\Debug\Task2Arrays.csproj.CoreCompileInputs.cache
-C:\Users\79061\SynergyLearning\Task2Arrays\obj\Debug\Task2Arrays.exe
-C:\Users\79061\SynergyLearning\Task2Arrays\obj\Debug\Task2Arrays.pdb

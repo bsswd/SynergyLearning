@@ -1,0 +1,14 @@
+C:\WORK\GAMEDEV\Synergy\CSharp\Abstract\bin\Debug\Abstract.exe.config
+C:\WORK\GAMEDEV\Synergy\CSharp\Abstract\bin\Debug\Abstract.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Abstract\bin\Debug\Abstract.pdb
+C:\WORK\GAMEDEV\Synergy\CSharp\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Abstract\obj\Debug\Abstract.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Abstract\obj\Debug\Abstract.pdb
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Abstract\bin\Debug\Abstract.exe.config
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Abstract\bin\Debug\Abstract.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Abstract\bin\Debug\Abstract.pdb
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Abstract\obj\Debug\Abstract.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Abstract\obj\Debug\Abstract.pdb

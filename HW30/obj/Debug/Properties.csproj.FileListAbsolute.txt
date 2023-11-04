@@ -1,0 +1,14 @@
+C:\WORK\GAMEDEV\Synergy\CSharp\Properties\bin\Debug\Properties.exe.config
+C:\WORK\GAMEDEV\Synergy\CSharp\Properties\bin\Debug\Properties.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Properties\bin\Debug\Properties.pdb
+C:\WORK\GAMEDEV\Synergy\CSharp\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Properties\obj\Debug\Properties.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Properties\obj\Debug\Properties.pdb
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Properties\bin\Debug\Properties.exe.config
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Properties\bin\Debug\Properties.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Properties\bin\Debug\Properties.pdb
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Properties\obj\Debug\Properties.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Properties\obj\Debug\Properties.pdb

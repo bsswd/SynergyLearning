@@ -1,7 +1,0 @@
-C:\Users\79061\SynergyLearning\Task4Dictionary\bin\Debug\Task4Dictionary.exe.config
-C:\Users\79061\SynergyLearning\Task4Dictionary\bin\Debug\Task4Dictionary.exe
-C:\Users\79061\SynergyLearning\Task4Dictionary\bin\Debug\Task4Dictionary.pdb
-C:\Users\79061\SynergyLearning\Task4Dictionary\obj\Debug\Task4Dictionary.csproj.AssemblyReference.cache
-C:\Users\79061\SynergyLearning\Task4Dictionary\obj\Debug\Task4Dictionary.csproj.CoreCompileInputs.cache
-C:\Users\79061\SynergyLearning\Task4Dictionary\obj\Debug\Task4Dictionary.exe
-C:\Users\79061\SynergyLearning\Task4Dictionary\obj\Debug\Task4Dictionary.pdb

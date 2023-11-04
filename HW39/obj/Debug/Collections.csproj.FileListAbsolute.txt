@@ -1,0 +1,7 @@
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Collections\bin\Debug\Collections.exe.config
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Collections\bin\Debug\Collections.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Collections\bin\Debug\Collections.pdb
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Collections\obj\Debug\Collections.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Collections\obj\Debug\Collections.pdb

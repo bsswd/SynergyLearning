@@ -1,0 +1,14 @@
+C:\Users\79061\SynergyLearning\SynergyTasks\Task4SoccerTeam\bin\Debug\Task4SoccerTeam.exe.config
+C:\Users\79061\SynergyLearning\SynergyTasks\Task4SoccerTeam\bin\Debug\Task4SoccerTeam.exe
+C:\Users\79061\SynergyLearning\SynergyTasks\Task4SoccerTeam\bin\Debug\Task4SoccerTeam.pdb
+C:\Users\79061\SynergyLearning\SynergyTasks\Task4SoccerTeam\obj\Debug\Task4SoccerTeam.csproj.AssemblyReference.cache
+C:\Users\79061\SynergyLearning\SynergyTasks\Task4SoccerTeam\obj\Debug\Task4SoccerTeam.csproj.CoreCompileInputs.cache
+C:\Users\79061\SynergyLearning\SynergyTasks\Task4SoccerTeam\obj\Debug\Task4SoccerTeam.exe
+C:\Users\79061\SynergyLearning\SynergyTasks\Task4SoccerTeam\obj\Debug\Task4SoccerTeam.pdb
+C:\Users\79061\SynergyLearning\Task4SoccerTeam\bin\Debug\Task4SoccerTeam.exe.config
+C:\Users\79061\SynergyLearning\Task4SoccerTeam\bin\Debug\Task4SoccerTeam.exe
+C:\Users\79061\SynergyLearning\Task4SoccerTeam\bin\Debug\Task4SoccerTeam.pdb
+C:\Users\79061\SynergyLearning\Task4SoccerTeam\obj\Debug\Task4SoccerTeam.csproj.AssemblyReference.cache
+C:\Users\79061\SynergyLearning\Task4SoccerTeam\obj\Debug\Task4SoccerTeam.csproj.CoreCompileInputs.cache
+C:\Users\79061\SynergyLearning\Task4SoccerTeam\obj\Debug\Task4SoccerTeam.exe
+C:\Users\79061\SynergyLearning\Task4SoccerTeam\obj\Debug\Task4SoccerTeam.pdb

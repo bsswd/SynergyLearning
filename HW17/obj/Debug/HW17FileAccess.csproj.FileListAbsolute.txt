@@ -1,0 +1,7 @@
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW17FileAccess\bin\Debug\HW17FileAccess.exe.config
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW17FileAccess\bin\Debug\HW17FileAccess.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW17FileAccess\bin\Debug\HW17FileAccess.pdb
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW17FileAccess\obj\Debug\HW17FileAccess.csproj.AssemblyReference.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW17FileAccess\obj\Debug\HW17FileAccess.csproj.CoreCompileInputs.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW17FileAccess\obj\Debug\HW17FileAccess.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW17FileAccess\obj\Debug\HW17FileAccess.pdb

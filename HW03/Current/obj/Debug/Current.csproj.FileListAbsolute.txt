@@ -1,0 +1,7 @@
+C:\WORK\GAMEDEV\Synergy\C#\Current\Current\obj\Debug\Current.csproj.AssemblyReference.cache
+C:\WORK\GAMEDEV\Synergy\C#\Current\Current\obj\Debug\Current.csproj.CoreCompileInputs.cache
+C:\WORK\GAMEDEV\Synergy\C#\Current\Current\bin\Debug\Current.exe.config
+C:\WORK\GAMEDEV\Synergy\C#\Current\Current\bin\Debug\Current.exe
+C:\WORK\GAMEDEV\Synergy\C#\Current\Current\bin\Debug\Current.pdb
+C:\WORK\GAMEDEV\Synergy\C#\Current\Current\obj\Debug\Current.exe
+C:\WORK\GAMEDEV\Synergy\C#\Current\Current\obj\Debug\Current.pdb

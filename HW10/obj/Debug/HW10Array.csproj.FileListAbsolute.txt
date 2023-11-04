@@ -1,0 +1,7 @@
+C:\WORK\GAMEDEV\Synergy\C#\Current\HW10Array\bin\Debug\HW10Array.exe.config
+C:\WORK\GAMEDEV\Synergy\C#\Current\HW10Array\bin\Debug\HW10Array.exe
+C:\WORK\GAMEDEV\Synergy\C#\Current\HW10Array\bin\Debug\HW10Array.pdb
+C:\WORK\GAMEDEV\Synergy\C#\Current\HW10Array\obj\Debug\HW10Array.csproj.AssemblyReference.cache
+C:\WORK\GAMEDEV\Synergy\C#\Current\HW10Array\obj\Debug\HW10Array.csproj.CoreCompileInputs.cache
+C:\WORK\GAMEDEV\Synergy\C#\Current\HW10Array\obj\Debug\HW10Array.exe
+C:\WORK\GAMEDEV\Synergy\C#\Current\HW10Array\obj\Debug\HW10Array.pdb

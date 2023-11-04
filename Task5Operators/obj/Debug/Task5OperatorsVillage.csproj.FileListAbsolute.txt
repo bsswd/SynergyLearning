@@ -1,7 +1,0 @@
-C:\Users\79061\SynergyLearning\Task5Operators\bin\Debug\Task5Operators.exe.config
-C:\Users\79061\SynergyLearning\Task5Operators\bin\Debug\Task5Operators.exe
-C:\Users\79061\SynergyLearning\Task5Operators\bin\Debug\Task5Operators.pdb
-C:\Users\79061\SynergyLearning\Task5Operators\obj\Debug\Task5OperatorsVillage.csproj.AssemblyReference.cache
-C:\Users\79061\SynergyLearning\Task5Operators\obj\Debug\Task5OperatorsVillage.csproj.CoreCompileInputs.cache
-C:\Users\79061\SynergyLearning\Task5Operators\obj\Debug\Task5Operators.exe
-C:\Users\79061\SynergyLearning\Task5Operators\obj\Debug\Task5Operators.pdb

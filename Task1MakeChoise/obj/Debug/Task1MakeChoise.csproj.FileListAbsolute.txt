@@ -1,7 +1,0 @@
-C:\Users\79061\SynergyLearning\Task1MakeChoise\bin\Debug\Task1MakeChoise.exe.config
-C:\Users\79061\SynergyLearning\Task1MakeChoise\bin\Debug\Task1MakeChoise.exe
-C:\Users\79061\SynergyLearning\Task1MakeChoise\bin\Debug\Task1MakeChoise.pdb
-C:\Users\79061\SynergyLearning\Task1MakeChoise\obj\Debug\Task1MakeChoise.csproj.AssemblyReference.cache
-C:\Users\79061\SynergyLearning\Task1MakeChoise\obj\Debug\Task1MakeChoise.csproj.CoreCompileInputs.cache
-C:\Users\79061\SynergyLearning\Task1MakeChoise\obj\Debug\Task1MakeChoise.exe
-C:\Users\79061\SynergyLearning\Task1MakeChoise\obj\Debug\Task1MakeChoise.pdb

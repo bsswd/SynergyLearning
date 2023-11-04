@@ -1,0 +1,7 @@
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW19Enums\bin\Debug\HW19Enums.exe.config
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW19Enums\bin\Debug\HW19Enums.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW19Enums\bin\Debug\HW19Enums.pdb
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW19Enums\obj\Debug\HW19Enums.csproj.AssemblyReference.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW19Enums\obj\Debug\HW19Enums.csproj.CoreCompileInputs.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW19Enums\obj\Debug\HW19Enums.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW19Enums\obj\Debug\HW19Enums.pdb

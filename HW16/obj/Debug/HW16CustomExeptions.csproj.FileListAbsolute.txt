@@ -1,0 +1,7 @@
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW16CustomExeptions\bin\Debug\HW16CustomExeptions.exe.config
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW16CustomExeptions\bin\Debug\HW16CustomExeptions.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW16CustomExeptions\bin\Debug\HW16CustomExeptions.pdb
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW16CustomExeptions\obj\Debug\HW16CustomExeptions.csproj.AssemblyReference.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW16CustomExeptions\obj\Debug\HW16CustomExeptions.csproj.CoreCompileInputs.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW16CustomExeptions\obj\Debug\HW16CustomExeptions.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\HW16CustomExeptions\obj\Debug\HW16CustomExeptions.pdb

@@ -1,0 +1,7 @@
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\GenericDelegates\bin\Debug\GenericDelegates.exe.config
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\GenericDelegates\bin\Debug\GenericDelegates.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\GenericDelegates\bin\Debug\GenericDelegates.pdb
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\GenericDelegates\obj\Debug\GenericDelegates.csproj.AssemblyReference.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\GenericDelegates\obj\Debug\GenericDelegates.csproj.CoreCompileInputs.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\GenericDelegates\obj\Debug\GenericDelegates.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\GenericDelegates\obj\Debug\GenericDelegates.pdb

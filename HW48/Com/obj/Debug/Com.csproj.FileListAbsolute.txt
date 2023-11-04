@@ -1,0 +1,7 @@
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Com\bin\Debug\Com.exe.config
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Com\bin\Debug\Com.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Com\bin\Debug\Com.pdb
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Com\obj\Debug\Com.csproj.AssemblyReference.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Com\obj\Debug\Com.csproj.CoreCompileInputs.cache
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Com\obj\Debug\Com.exe
+C:\WORK\GAMEDEV\Synergy\CSharp\Synergy\Com\obj\Debug\Com.pdb

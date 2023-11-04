@@ -1,0 +1,10 @@
+C:\WORK\GAMEDEV\Synergy\C#\Current\MetricImperialConverter\bin\Debug\MetricImperialConverter.exe.config
+C:\WORK\GAMEDEV\Synergy\C#\Current\MetricImperialConverter\bin\Debug\MetricImperialConverter.exe
+C:\WORK\GAMEDEV\Synergy\C#\Current\MetricImperialConverter\bin\Debug\MetricImperialConverter.pdb
+C:\WORK\GAMEDEV\Synergy\C#\Current\MetricImperialConverter\obj\Debug\MetricImperialConverter.csproj.AssemblyReference.cache
+C:\WORK\GAMEDEV\Synergy\C#\Current\MetricImperialConverter\obj\Debug\MetricImperialConverter.FormImpToMetConverter.resources
+C:\WORK\GAMEDEV\Synergy\C#\Current\MetricImperialConverter\obj\Debug\MetricImperialConverter.Properties.Resources.resources
+C:\WORK\GAMEDEV\Synergy\C#\Current\MetricImperialConverter\obj\Debug\MetricImperialConverter.csproj.GenerateResource.cache
+C:\WORK\GAMEDEV\Synergy\C#\Current\MetricImperialConverter\obj\Debug\MetricImperialConverter.csproj.CoreCompileInputs.cache
+C:\WORK\GAMEDEV\Synergy\C#\Current\MetricImperialConverter\obj\Debug\MetricImperialConverter.exe
+C:\WORK\GAMEDEV\Synergy\C#\Current\MetricImperialConverter\obj\Debug\MetricImperialConverter.pdb
